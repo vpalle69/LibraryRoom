@@ -1,0 +1,49 @@
+<html>
+<head>
+  <title> NCSU Library Room Booking </title>
+  <style>
+    body{
+      background-color: #C0C0C0;
+    }
+  </style>
+</head>
+<body>
+<h1>Editing User</h1>
+
+<%= form_for(@user) do |f| %>
+    <% if @user.errors.any? %>
+        <div id="error_explanation">
+          <h2><%= pluralize(@user.errors.count, "error") %> prohibited this user from being saved:</h2>
+
+          <ul>
+            <% @user.errors.full_messages.each do |message| %>
+                <li><%= message %></li>
+            <% end %>
+          </ul>
+        </div>
+    <% end %>
+    <% if @user.id == current_user.id %>
+    <div class="field">
+      <%= f.label :name %><br>
+      <%= f.text_field :name %>
+    </div>
+        <div class="field">
+          <%= f.label :email %><br>
+          <%= f.text_field :email %>
+        </div>
+            <div class="field">
+              <%= f.label :password %><br>
+              <%= f.password_field :password %>
+            </div>
+            <div class="field">
+              <%= f.hidden_field :usertype, :value => @user.usertype %>
+            </div>
+        <% end %>
+    <div class="actions">
+      <%= f.submit %>
+    </div>
+<% end %>
+
+<%= link_to 'Show', @user %> |
+<%= link_to 'Back', :back %>
+</body>
