@@ -1,9 +1,10 @@
-# ClassPortal
+# Library Room Booking App
 Created by 
 - Vamshidhar Reddy Palle( vpalle)
 - Anshul Goel (agoel4)
 - Rushabh Doshi(radoshi)
-
+Note: please don't change password for the following users because there will be an option to update user details.
+You can 
 <b>Pre-configured Admin and User Details:</b>
 <table border=1>
 	<th> Role </th>
@@ -53,11 +54,12 @@ Below are the tasks that can be performed by each user type
     * Using Release Room can release a room.
     * Can create reservation by clicking on create reservation beside the room details.
     * Can search for rooms based on roomno,building and room size and based on results can create a reservation.
-    * Upon clicking create reservation a Page with title New Reservation pops up. Being admin can book for other user.
+    * Upon clicking create reservation a Page with title New Reservation pops up. Being admin can book for other user by entering 
+    	<b> email address </b> in the booked user textbox.
     * Constraints for invalid roomno,invalid user email, reservation for more than two hours, booking for a date which is 
        7 days in future, booking for a past date are applied.
     * An email can be sent to multiple users with booking details by entering valid emails in the format prescribed
-      near Invite textbox.
+      near Invite textbox. <br>
 <b> Member </b>
 - Edit profile
 	* Click on Edit Profile tab, change the details and click on Update User
