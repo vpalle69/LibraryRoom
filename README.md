@@ -87,6 +87,4 @@ Below are the tasks that can be performed by each user type
 
 
 <b> Extra Credit </b>
-- 
-- Instructor of the course can request to make a course “Inactive” by clicking on Inactive Request. The request can be viewed by the admins in Inactive Requests tab.
-- Student can register to receive a notification email when an inactive course becomes Active. Go to search courses tab and search for inactive courses, then click on Notify when active button corresponding to the course.
+- System can send an email to people if a user types their email address while booking a room.
