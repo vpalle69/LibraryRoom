@@ -4,7 +4,7 @@ Created by
 - Anshul Goel (agoel4)
 - Rushabh Doshi(radoshi)
 -Note: please don't change password for the following users because there will be an option to update user details.
-You can 
+	You can create new users and test the edit user functionality.
 <b>Pre-configured Admin and User Details:</b>
 <table border=1>
 	<th> Role </th>
