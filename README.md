@@ -49,7 +49,9 @@ Below are the tasks that can be performed by each user type
         * An admin can release any room by pressing release room button.
 	
 - Add admin
+
         * you can add new members and admins.
+	
 - Search users
         * Can search for users based on name,email and usertype.
                 * Can edit,see the details, view booking history of user and delete a user.
