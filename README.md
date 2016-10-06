@@ -55,7 +55,7 @@ Below are the tasks that can be performed by each user type
 - Search users
         
 	* Can search for users based on name,email and usertype.
-        	* Can edit,see the details, view booking history of user and delete a user.
+       		* Can edit,see the details, view booking history of user and delete a user.
 - Add Room
 
 	* Can add new rooms.
