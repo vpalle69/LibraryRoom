@@ -35,6 +35,7 @@ Below are the tasks that can be performed by each user type
         * Upon results pop up you can see his profile details, his booking history and can delete him if he is not the person
           who is logged in and a super admin.
 	* Click on Add Admin tab to add admins/members
+	
 - Manage Rooms
 	* You can search for a room based on roomno,building and size. Below actions can be performed on results
 		* Show - Details of the room can be seen.
@@ -46,6 +47,7 @@ Below are the tasks that can be performed by each user type
         * You can search for a room based on roomno,building and size.
         * Once the results pop up each room will have an option called create reservation using which you can enter details and book a             room.
         *An admin can release any room by pressing release room button.
+	
 - Add admin
         * you can add new members and admins.
 - Search users
