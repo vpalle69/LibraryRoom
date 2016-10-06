@@ -5,6 +5,7 @@ Created by
 - Rushabh Doshi(radoshi)
 -Note: please don't change password for the following users because there will be an option to update user details.
 	You can create new users and test the edit user functionality.
+	
 <b>Pre-configured Admin and User Details:</b>
 <table border=1>
 	<th> Role </th>
@@ -60,6 +61,7 @@ Below are the tasks that can be performed by each user type
        7 days in future, booking for a past date are applied.
     	* An email can be sent to multiple users with booking details by entering valid emails in the format prescribed
       	near Invite textbox. 
+	
 <b> Member </b>
 - Edit profile
 	* Click on Edit Profile tab, change the details and click on Update User
