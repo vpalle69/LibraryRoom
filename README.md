@@ -46,26 +46,26 @@ Below are the tasks that can be performed by each user type
         * Click on Book Room to see the existing future reservations and list of rooms
         * You can search for a room based on roomno,building and size.
         * Once the results pop up each room will have an option called create reservation using which you can enter details and book a             room.
-        *An admin can release any room by pressing release room button.
+        * An admin can release any room by pressing release room button.
 	
 - Add admin
         * you can add new members and admins.
 - Search users
         * Can search for users based on name,email and usertype.
-                *Can edit,see the details, view booking history of user and delete a user.
+                * Can edit,see the details, view booking history of user and delete a user.
 - Add Room
     	* Can add new rooms.
 - Book a room
-    	*A page with existing future reservations and list of rooms will pop up.
+    	* A page with existing future reservations and list of rooms will pop up.
     	* Using Release Room can release a room.
     	* Can create reservation by clicking on create reservation beside the room details.
     	* Can search for rooms based on roomno,building and room size and based on results can create a reservation.
     	* Upon clicking create reservation a Page with title New Reservation pops up. Being admin can book for other user by entering 
     	<b> email address </b> in the booked user textbox.
     	* Constraints for invalid roomno,invalid user email, reservation for more than two hours, booking for a date which is 
-       7 days in future, booking for a past date are applied.
+          7 days in future, booking for a past date are applied.
     	* An email can be sent to multiple users with booking details by entering valid emails in the format prescribed
-      	near Invite textbox. 
+      	  near Invite textbox. 
 	
 <b> Member </b>
 - Edit profile
