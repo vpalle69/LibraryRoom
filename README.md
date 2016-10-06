@@ -3,8 +3,11 @@ Created by
 - Vamshidhar Reddy Palle( vpalle)
 - Anshul Goel (agoel4)
 - Rushabh Doshi(radoshi)
+
 -Note: please don't change password for the following users because there will be an option to update user details.
 	You can create new users and test the edit user functionality.
+- There was problem with heroku deployment with my initial repository so had to create a new repository hence this contains wher
+	few commits. For older commits refer https://github.com/vpalle69/LibRoom
 	
 <b>Pre-configured Admin and User Details:</b>
 <table border=1>
