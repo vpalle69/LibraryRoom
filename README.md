@@ -70,17 +70,17 @@ Below are the tasks that can be performed by each user type
 	* Click on Edit Profile tab, change the details and click on Update User
 - Search Rooms
   * You can search for a room based on roomno,building and size. Below actions can be performed on results
-		  * Show - Details of the room can be seen.
+	* Show - Details of the room can be seen.
   * Book Room tab can be used to book a room.
-    *A page with existing future reservations and list of rooms will pop up.
-    * Using Release Room can release a room if the room is booked by this user.
-    * Can create reservation by clicking on create reservation beside the room details.
-    * Can search for rooms based on roomno,building and room size and based on results can create a reservation.
-    * Upon clicking create reservation a Page with title New Reservation pops up. 
-    * Constraints for invalid roomno,invalid user email, reservation for more than two hours, booking for a date which is 
-       7 days in future, booking for a past date are applied.
-    * An email can be sent to multiple users with booking details by entering valid emails in the format prescribed
-      near Invite textbox.
+    	*A page with existing future reservations and list of rooms will pop up.
+        * Using Release Room can release a room if the room is booked by this user.
+        * Can create reservation by clicking on create reservation beside the room details.
+        * Can search for rooms based on roomno,building and room size and based on results can create a reservation.
+        * Upon clicking create reservation a Page with title New Reservation pops up. 
+        * Constraints for invalid roomno,invalid user email, reservation for more than two hours, booking for a date which is 
+       	  7 days in future, booking for a past date are applied.
+        * An email can be sent to multiple users with booking details by entering valid emails in the format prescribed
+          near Invite textbox.
 - View Booking History
 	* Can view his list of reservations.
 
