@@ -50,15 +50,19 @@ Below are the tasks that can be performed by each user type
 	
 - Add admin
 
-        * you can add new members and admins.
+	* you can add new members and admins.
 	
 - Search users
-        * Can search for users based on name,email and usertype.
-                * Can edit,see the details, view booking history of user and delete a user.
+        
+	* Can search for users based on name,email and usertype.
+        	* Can edit,see the details, view booking history of user and delete a user.
 - Add Room
-    	* Can add new rooms.
+
+	* Can add new rooms.
+	
 - Book a room
-    	* A page with existing future reservations and list of rooms will pop up.
+
+	* A page with existing future reservations and list of rooms will pop up.
     	* Using Release Room can release a room.
     	* Can create reservation by clicking on create reservation beside the room details.
     	* Can search for rooms based on roomno,building and room size and based on results can create a reservation.
