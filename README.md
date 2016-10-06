@@ -91,4 +91,4 @@ Below are the tasks that can be performed by each user type
 
 
 <b> Extra Credit </b>
-- System can send an email to people if a user types their email address while booking a room.
+- System can send an email to people if a user types valid email address while booking a room.
